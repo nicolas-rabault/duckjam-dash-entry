@@ -9,3 +9,5 @@ def step(obs):
     t += 0.02
     phase = 2 * math.pi * 1.5 * t
     return [0.1 * math.sin(phase + 0.4 * i) - 0.02 * obs[6 + i] for i in range(14)]
+
+# my first edit
