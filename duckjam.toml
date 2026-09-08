@@ -1,0 +1,3 @@
+kind = "python"
+entry = "controller.py"
+challenge = "round-00-dash"
